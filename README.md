@@ -10,5 +10,4 @@
 
 ## Student:
 
-- Viktor Shishmarev
-- FEI STU university
+Viktor Shishmarev, FEI STU university
